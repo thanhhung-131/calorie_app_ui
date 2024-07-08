@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815972132250",
+    "project_id": "e-commercial-4c6c1",
+    "storage_bucket": "e-commercial-4c6c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815972132250:android:cfdd1c7dfb4ccea1324623",
+        "android_client_info": {
+          "package_name": "com.daiki.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815972132250-sjmujgso52qe5hp8beh41iu17aanbt1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAoOdf47FF2MsYgZeGIfmK1YPPolesmvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815972132250-sjmujgso52qe5hp8beh41iu17aanbt1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
